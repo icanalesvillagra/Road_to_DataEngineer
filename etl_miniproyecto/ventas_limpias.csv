@@ -1,8 +1,0 @@
-ID,Nombre,Producto,Precio,Unidades,Fecha,Total,Mes,Año
-1,Ignacio,Laptop,850,2.0,2025-05-01,1700.0,5,2025
-2,Ana,Mouse,25,1.7142857142857142,2025-05-03,42.857142857142854,5,2025
-3,Pedro,Teclado,50,1.0,2025-05-05,50.0,5,2025
-4,Desconocido,Monitor,200,1.0,2025-05-07,200.0,5,2025
-5,Ana,Laptop,850,1.0,2025-05-10,850.0,5,2025
-6,Ignacio,Mouse,25,3.0,2025-05-12,75.0,5,2025
-7,Pedro,Sin especificar,100,2.0,2025-05-15,200.0,5,2025
