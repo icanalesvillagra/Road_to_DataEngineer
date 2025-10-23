@@ -1,0 +1,18 @@
+Para poder ejecutar el script de manera correcta, es necesario crear una venv
+
+Para esto utilizamos el siguiente script, pero antes que todo debemos localizarnos en la carpeta donde estará nuestro proyecto a través de la terminal
+
+Luego creamos el entorno de venv
+python -m venv venv  (el segundo venv es el nombre que tendrá nuestro "virtual environment(venv)")
+
+En Windows usaremos el siguiente comando para activar el entorno virtual
+venv\Scripts\activate
+
+Para Linux/macOS usaremos el siguiente comando para activar el entorno virtual
+source venv/bin/activate
+
+Instalamos dependencias (sería solo pandas para este caso)
+pip install pandas
+
+Para ejecutar el Script usamos
+python scripts/transform_ventas.py
