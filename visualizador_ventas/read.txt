@@ -1,0 +1,5 @@
+Conclusiones que pude destacar
+
+NumPy me permitió generar y operar grandes volúmenes de datos sin bucles.
+Pandas organizó y transformó esos datos de forma tabular y eficiente.
+Matplotlib y Seaborn me ayudaron a visualizar patrones, tendencias y correlaciones.
