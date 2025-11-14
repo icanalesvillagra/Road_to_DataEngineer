@@ -1,5 +1,45 @@
-Conclusiones que pude destacar
+📊 Proyecto: Análisis de Ventas con NumPy, Pandas y Visualizaciones
 
-NumPy me permitió generar y operar grandes volúmenes de datos sin bucles.
-Pandas organizó y transformó esos datos de forma tabular y eficiente.
-Matplotlib y Seaborn me ayudaron a visualizar patrones, tendencias y correlaciones.
+Este proyecto realiza un análisis completo de datos de ventas utilizando NumPy, Pandas, Matplotlib y Seaborn, combinando generación de datos simulados, manipulación tabular y visualizaciones profesionales. Es ideal como pieza de portafolio para roles de Data Analyst o Data Engineer.
+
+🚀 Objetivos del Proyecto
+
+-Generar un dataset de ventas de manera programática usando NumPy.
+-Construir un DataFrame Pandas para análisis tabular.
+-Aplicar cálculos numéricos vectorizados para performance.
+-Realizar limpieza, transformación y preparación de datos.
+-Crear visualizaciones descriptivas y analíticas.
+-Exportar los datos a un archivo .csv.
+
+🧱 Tecnologías Utilizadas
+
+Python 3.10+
+
+-NumPy → Operaciones vectorizadas de alto rendimiento.
+-Pandas → Manipulación y análisis de datos tabulares.
+-Matplotlib → Gráficos base.
+-Seaborn → Visualizaciones estadísticas refinadas.
+
+📊 Visualizaciones Generadas
+
+El script produce informes gráficos útiles:
+
+-Distribución de precios
+-Relación entre precio y venta neta
+-Boxplot por categoría de venta
+-Promedio de ventas por día (línea)
+-Relación entre unidades y descuento
+-Matriz de correlación entre variables
+
+Estas visualizaciones permiten comprender patrones, dispersión, estacionalidad y relaciones numéricas en el dataset.
+
+🌟 Resultados Clave
+
+-Se demuestra el uso combinado de NumPy + Pandas para análisis eficiente.
+-Exhibe un flujo completo de ETL liviano (generación → transformación → análisis → visualización).
+-Es un excelente archivo para mostrar en tu portfolio de ingeniería de datos o análisis.
+
+👨‍💻 Autor
+
+Ignacio Canales Villagra
+Proyecto generado como parte del aprendizaje en análisis y manejo de datos con Python.
